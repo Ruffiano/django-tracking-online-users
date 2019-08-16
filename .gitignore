@@ -1,0 +1,16 @@
+# Django #
+*.log
+*.pot
+*.pyc
+pycache
+media
+
+.DS_Store
+
+*.idea/
+db.sqlite3
+venv/
+migrations/
+migrations
+0001_initial.py
+geo_location/__init__.py
